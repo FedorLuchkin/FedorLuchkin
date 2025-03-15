@@ -26,7 +26,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FedorLuchkin&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&dates=D600BA&fire=FF00D5&stroke=D400AA&currStreakNum=DD00B6&currStreakLabel=DD00D0&sideLabels=DD9200)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorLuchkin&langs_count=8&layout=compact&theme=great-gatsby&hide_border=true&bg_color=DD272700&title_color=DD00D0&text_color=D600CA)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorLuchkin&hide=jupyter,html&langs_count=8&layout=compact&theme=great-gatsby&hide_border=true&bg_color=DD272700&title_color=DD00D0&text_color=D600CA)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--
 **FedorLuchkin/FedorLuchkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
